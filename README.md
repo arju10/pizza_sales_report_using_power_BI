@@ -1,6 +1,7 @@
 # pizza_sales_report_using_power_BI
 Pizza Sales Report Using Power BI
-![Home report](https://github.com/arju10/pizza_sales_report_using_power_BI/assets/52301135/cb78232f-b7be-4971-a628-6022b9174020)
+![home report bi](https://github.com/arju10/pizza_sales_report_using_power_BI/assets/52301135/9b84477c-a541-4cf6-afca-a912dd7d8890)
+
 </br>
 </br>
 </br>
